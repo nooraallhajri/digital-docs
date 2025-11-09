@@ -87,11 +87,6 @@ data/out/a.txt
    Output →  
    `data/out/test.txt`
 
-
-
----
-- No asymmetric encryption or digital signatures are implemented — those belong to **Phase 2**.
-
 ---
 
 © 2025 Digital-Docs Team 
