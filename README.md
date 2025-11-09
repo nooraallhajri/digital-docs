@@ -1,7 +1,7 @@
-# 🧩 Digital-Docs — Phase 1: Encrypted Document Transfer (Symmetric Only)
+# 🧩 Digital-Docs 
 
 This project demonstrates secure file encryption and decryption using **AES-256-GCM** with a shared passphrase.  
-It represents the **Phase 1 deliverable**, focusing only on symmetric encryption and decryption.
+
 
 ---
 
@@ -87,17 +87,11 @@ data/out/a.txt
    Output →  
    `data/out/test.txt`
 
-4. Verify that the decrypted file matches the original.
+
 
 ---
-
-## ℹ️ Notes
-
-- Works with **any file type** (`.txt`, `.pdf`, `.jpg`, etc.).  
-- If a file with the same name already exists in `data/out/`, it will be **overwritten** when decrypted.  
-- Wrong passphrases are automatically rejected until the correct one is entered.  
 - No asymmetric encryption or digital signatures are implemented — those belong to **Phase 2**.
 
 ---
 
-© 2025 Digital-Docs Team | FAU Project Phase 1
+© 2025 Digital-Docs Team 
